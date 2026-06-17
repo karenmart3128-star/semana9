@@ -1,0 +1,11 @@
+Es importante que las plataformas tecnológicas comunitarias funcionen
+de manera estable y segura porque muchas personas dependen de ellas
+para comunicarse y participar.
+Si un servidor falla, se puede perder información importante.
+La estabilidad garantiza que el servicio esté disponible cuando se
+necesita.
+La seguridad evita accesos no autorizados y protege los datos.
+Un servidor bien configurado genera confianza en los usuarios.
+Además, los registros y el monitoreo ayudan a detectar errores.
+Todo esto fortalece la participación comunitaria.
+Por eso, un servidor confiable es clave en plataformas digitales.
